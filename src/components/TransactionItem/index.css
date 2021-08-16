@@ -1,0 +1,22 @@
+.item-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-bottom: 1px solid #d7dfe9;
+}
+.item {
+  width: 28%;
+  font-size: 14px;
+  font-family: 'Roboto';
+  padding-top: 5px;
+}
+.delete-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  padding: 10px;
+}
+.delete-img {
+  width: 20px;
+}
